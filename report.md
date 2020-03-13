@@ -12,7 +12,7 @@ BRANCH-Eiectrical Engineering
 SEC-B
 -------------
 Experiment-1:write a code to print name
-```
+```C
 #include(stdio.h)
 int main()
 {
