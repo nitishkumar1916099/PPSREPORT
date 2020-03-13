@@ -7,7 +7,7 @@ College Roll Number-1916099
 
 University Roll Number-1905128
 
-BRANCH-Eiectrical Engineering
+BRANCH-Electrical Engineering
 
 SEC-B
 
@@ -18,7 +18,7 @@ Experiment-1:write a code to print name
 #include<stdio.h>
 int main()
 {
-printf("NITISH");
+printf("Nitish Kumar");
 }
------------
+```
 
