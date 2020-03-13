@@ -7,9 +7,9 @@ College Roll Number-1916099
 
 University Roll Number-1905128
 
-BRANCH-Electrical Engineering
+Branch-Electrical Engineering
 
-SEC-B
+Section-B
 
 Batch:2019-2023
 -------------
