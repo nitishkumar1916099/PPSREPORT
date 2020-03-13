@@ -47,3 +47,21 @@ int main()
 }
 ```
 -----------
+Experiment-4:Design a code to execute addition of two numbers.
+Input: 
+         56   8
+Output: 
+        64
+ ```C 
+ #include<stdio.h>
+int main()
+{
+    int a,b,c;
+    puts("enter two number");
+    scanf("%d %d",&a,&b);
+    c=a+b;
+    printf("%d",c);
+    return 0;
+}
+```
+--------------
