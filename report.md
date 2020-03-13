@@ -61,3 +61,19 @@ int main()
 }
 ```
 --------------
+EXPERIMENT-5:Write a computer program in C, which takes two numbers (integers) as input and print the smaller number.
+```C
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    puts("enter two number for comparison");
+    scanf("%d %d",&a,&b);
+    if(a<b)
+    printf("the smaller number is %d",a);
+    else
+    printf("the smaller number is %d",b);
+    return 0;
+}
+```
+-----------------
