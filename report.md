@@ -1,15 +1,17 @@
 ![gne logo](https://www.gndec.ac.in/sites/default/logo.png)
-#programming for problem solving(ESC-105)
+# programming for problem solving(ESC-105)
 ------------------
 Sbmitted by-Nitish kumar
 
-CRN-1916099
+College Roll Number-1916099
 
-URN-1905128
+University Roll Number-1905128
 
 BRANCH-Eiectrical Engineering
 
 SEC-B
+
+Batch:2019-2023
 -------------
 Experiment-1:write a code to print name
 ```C
@@ -18,3 +20,5 @@ int main()
 {
 printf("NITISH");
 }
+-----------
+
