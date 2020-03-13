@@ -22,6 +22,7 @@ int main()
 printf("Nitish Kumar");
 }
 ```
+--------------
 Expweriment-2:print FOX
 ```C
 #include<stdio.h>
@@ -36,3 +37,4 @@ int main()
     puts("##          ########        ####      ####");
 }
 ```
+--------------
