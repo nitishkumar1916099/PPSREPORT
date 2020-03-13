@@ -1,7 +1,11 @@
-#programming for problem solving(esc-104)
+#programming for problem solving(ESC-105)
 ------------------
 Sbmitted by-Nitish kumar
+
 CRN-1916099
+
 URN-1905128
-BRANCH-EE
-SEC.-B
+
+BRANCH-Eiectrical Engineering
+
+SEC-B
