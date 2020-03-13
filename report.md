@@ -1,5 +1,5 @@
-#programming for problem solving(ESC-105)[gne logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gndec.ac.in%2F&psig=AOvVaw0WhR9yCaSyIZWPDX1WPLkd&ust=1584172497575000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDejMr8lugCFQAAAAAdAAAAABAI)
-
+![gne logo](https://www.gndec.ac.in/sites/default/logo.png)
+#programming for problem solving(ESC-105)
 ------------------
 Sbmitted by-Nitish kumar
 
