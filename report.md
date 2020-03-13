@@ -13,7 +13,7 @@ SEC-B
 -------------
 Experiment-1:write a code to print name
 ```C
-#include(stdio.h)
+#include<stdio.h>
 int main()
 {
 printf("NITISH");
