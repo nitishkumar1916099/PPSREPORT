@@ -23,7 +23,7 @@ printf("Nitish Kumar");
 }
 ```
 --------------
-Expweriment-2:print FOX
+Experiment-2:print FOX
 ```C
 #include<stdio.h>
 int main()
@@ -38,3 +38,12 @@ int main()
 }
 ```
 --------------
+Experiment-3:write a program to display "hello"
+```C
+#include<stdio.h>
+int main()
+{
+    puts("hello");
+}
+```
+-----------
