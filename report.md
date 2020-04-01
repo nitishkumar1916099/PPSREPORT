@@ -76,4 +76,22 @@ int main()
     return 0;
 }
 ```
------------------
+-------------------
+Experiment-6:Write a program that prints fizz if a number is even and prints buzz if a number is odd.
+```C
+#include<stdio.h>
+
+int main()
+{
+    int a;
+    scanf("%d",&a);
+    if(a%2 == 0)
+    {
+      printf("fizz");}
+    else
+    {
+    printf("buzz");}
+    return 0;
+}
+```
+----------------
