@@ -95,3 +95,36 @@ int main()
 }
 ```
 ----------------
+Experiment-7:program of FizzBuzz
+```C
+#include<stdio.h>
+int main()
+{
+printf("\t----FizzBuzz----\n");
+int i,n;
+printf("\n\nSelect the range in which you want to play : ");
+scanf("%d",&n);
+for(i=1;i<=n;i++)
+{
+if(i%15==0)
+{
+printf("\nFizzBuzz");
+}
+else if(i%5==0)
+{
+printf("\nBuzz");
+}
+else if(i%3==0)
+{
+printf("\nFizz");
+}
+else
+{
+printf("\n%d",i);
+}
+}
+return 0;
+}
+```
+----------------
+
