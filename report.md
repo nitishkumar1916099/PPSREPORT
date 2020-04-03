@@ -127,4 +127,34 @@ return 0;
 }
 ```
 ----------------
+Experiment-8:program of game of life
+```C
+#include<stdio.h>
+int main()
+{
+printf("\t---Conway's Game of Life---\n\n");
+int neighbouringcell;
+printf("\n\nEnter the number of Neighbouring cells : ");
+scanf("%d",&neighbouringcell);
+if(neighbouringcell==3)
+{
+printf("\nThe dead cell will become live in the next generation\n");
+}
+else if(neighbouringcell<=1)
+{
+printf("The alive cell will die in next generation\n");
+}
+else if(neighbouringcell>=2 && neighbouringcell<=3)
+{
+printf("The living cell will reamain alive in the next generation\n");
+}
+else
+{
+printf("The alive cell will die due to overpopulation in next generation\n");
+}
+return 0;
+}
+```
+-------------------
+
 
